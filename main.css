@@ -3,6 +3,12 @@
     font-family: 'Vina Sans', sans-serif;
     color: rgb(101, 98, 98);
 }
+#cover{
+    text-align: center;
+    padding-top: 200px;
+    font-family: 'Vina Sans', sans-serif;
+    color: rgb(101, 98, 98);
+}
 header{
     background-color: rgb(195, 192, 192);
 }
