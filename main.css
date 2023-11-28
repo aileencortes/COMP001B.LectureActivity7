@@ -5,12 +5,13 @@
 }
 #cover{
     text-align: center;
+    font-size: 200px;
     padding-top: 50px;
     font-family: 'Vina Sans', sans-serif;
     color: rgb(255, 255, 255);
 }
 header{
-    background-color: rgb(195, 192, 192);
+    background-color: rgb(245, 236, 228);
 }
 main{
     background-image:url(images/shoes.jpeg);
@@ -20,8 +21,9 @@ main{
 }
 #intro{
     border: solid 2px white;
+    font-size: 25px;
     background-color: rgba(202, 199, 199, 0.789);
-    margin-left: 20%;
+    margin-left: 23%;
     width:800px;
     text-align: center;
     font-family: 'Nova Square', sans-serif;
@@ -29,5 +31,10 @@ main{
 
 .btn {
     font-family: 'Vina Sans', sans-serif;
-    margin-left: 45%;
+    font-size: 30px;
+    margin-left: 42%;
+}
+
+footer{
+    background-color: rgb(245, 236, 228);
 }
